@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=bfrederick&color=brightgreen&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=bfrederick18&color=brightgreen&style=flat-square&label=Profile+Views)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-frederick-643058213/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://www.brandonfrederick.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yoiambrandon/)
