@@ -4,14 +4,6 @@
 <!--img src="https://i.pinimg.com/originals/c4/88/b1/c488b19960ac8870812d86ab5e1ef393.gif" width="100%" /--> 
 <!--img src="https://64.media.tumblr.com/abb98263fef3e98da83e572f96655668/tumblr_p0d5ttH13P1s4fz4bo1_500.gif" width="100%" /-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bfrederick18&show_icons=true&locale=en&theme=github_dark&hide_border=true&hide_title=true&count_private=true" />
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bfrederick18&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakNum=DDDDDD&sideNums=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD&stroke=DDDDDD" />
-</a>
-
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bfrederick18&show_icons=true&locale=en&theme=github_dark&hide_border=true&hide_title=true&count_private=true" /></a> | <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bfrederick18&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakNum=DDDDDD&sideNums=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD&stroke=DDDDDD" /></a> |
 | ------------- | ------------- |
 
