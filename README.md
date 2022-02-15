@@ -20,11 +20,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfrederick18&layout=compact&hide_title=true&langs_count=10&theme=github_dark&hide_border=true" />
 </a>
 
-
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bfrederick18)
+[![Replit Badge](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=Replit&logoColor=white)](https://replit.com/@bfrederick18)
+[![Glitch Badge](https://img.shields.io/badge/Glitch-2800ff?style=flat-square&logo=glitch&logoColor=white)](https://glitch.com/@bfrederick18)
+[![VS Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
+[![VS Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://visualstudio.microsoft.com/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bfrederick18&color=brightgreen&style=flat-square&label=Profile+Views)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-frederick-643058213/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://www.brandonfrederick.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yoiambrandon/)
-
+[![Website Badge](https://img.shields.io/badge/Personal-000000?style=flat-square&logo=About.me&logoColor=white)](http://www.brandonfrederick.com/)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/xlt40342edknroegamyk8jxpk?si=5525ba4279c44d61)
+  
 </div>
